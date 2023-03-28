@@ -45,7 +45,8 @@ Save the final data set into the file.
 
 ### Program:
 #### 1) & (2) Examine price_per_sqft column and use IQR to remove outliers and create new dataframe.
-Program developed by : R.brindha Register number : 21222230023
+Program developed by :JEEVITHA E
+Register number : 21222230054
 
 import pandas as pd import numpy as np import seaborn as sns
 
