@@ -141,10 +141,6 @@ sns.boxplot(x="height",data=df5)
 
 ![sd7](https://user-images.githubusercontent.com/118708245/228197589-58cdfaae-d9f7-4443-9dc4-aae93e224e84.png)
 
-### Dataset after removal of outlier using z score:
-
-![sd8](https://user-images.githubusercontent.com/118708245/228197747-21515a5e-b03d-45e6-8066-aad506bee6ec.png)
-
 ### Shape of Dataset after removal of outlier using z score:
 
 ![sd9](https://user-images.githubusercontent.com/118708245/228198156-34705813-efb0-4ae6-8b0b-494535c3614c.png)
